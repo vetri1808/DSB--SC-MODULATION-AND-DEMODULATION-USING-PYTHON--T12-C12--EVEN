@@ -32,7 +32,13 @@ Coherent demodulation (multiply by synchronized carrier)
 Low-pass filter to recover message
 
 Tabulation:
+<img width="1476" height="682" alt="image" src="https://github.com/user-attachments/assets/296a25bf-51ae-4824-ba61-2054a4b4efb4" />
+
+
 
 Output:
+<img width="630" height="469" alt="EXP8" src="https://github.com/user-attachments/assets/c02eb87a-1913-4d23-b93f-1ef6c2057432" />
 
 Result:
+![WhatsApp Image 2026-04-07 at 12 06 27 PM](https://github.com/user-attachments/assets/95d44ec5-a03d-47f0-a86b-6a04c9cdb090)
+
